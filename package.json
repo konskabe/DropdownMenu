@@ -1,0 +1,19 @@
+{
+  "name": "@konskabe96/dropdownmenu-package",
+  "version": "1.0.0",
+  "description": "Simple DropDownMenu package using HTML, CSS and JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konskabe/DropdownMenu.git"
+  },
+  "author": "@Konskabe96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konskabe/DropdownMenu/issues"
+  },
+  "homepage": "https://github.com/konskabe/DropdownMenu#readme"
+}
